@@ -2,8 +2,8 @@
 
 OS: ![Windows](https://img.shields.io/badge/Windows-0B0A0C?style=for-the-badge&logo=windows&logoColor=white)
 
-Languages and Tools: ![HTML](https://img.shields.io/badge/HTML5-0B0A0C?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-0B0A0C?style=for-the-badge&logo=css3&logoColor=white)
+Languages and Tools: ![HTML](https://img.shields.io/badge/HTML5-7CFC00?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-FF8C00?style=for-the-badge&logo=css3&logoColor=white)
 
 <br />
 
