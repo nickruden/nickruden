@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Nikita</h1>
+<h1 align="center">Hello, I'm Nikita &#128522;</h1>
 
 OS: ![Windows](https://img.shields.io/badge/Windows-6495ED?style=for-the-badge&logo=windows&logoColor=white)
 
