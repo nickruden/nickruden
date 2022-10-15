@@ -37,3 +37,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickruden&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickruden&theme=dark&show_icons=true)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nickruden&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
