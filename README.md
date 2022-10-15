@@ -15,8 +15,8 @@
 
 - <img src = "https://cdn-0.emojis.wiki/emoji-pics/google/man-technologist-google.png" height = 30px> 𝙸 𝚊𝚖 𝚊 𝚋𝚎𝚐𝚒𝚗𝚗𝚎𝚛 `𝚠𝚎𝚋-𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛`
 - <img src = "https://images.emojiterra.com/google/android-10/512px/1f468-1f3fb-1f393.png" height = 30px> 𝙸 𝚊𝚖 `𝚊 𝚜𝚎𝚌𝚘𝚗𝚍-𝚢𝚎𝚊𝚛 𝚜𝚝𝚞𝚍𝚎𝚗𝚝` 𝚘𝚏 𝚝𝚑𝚎 𝙲𝚛𝚒𝚖𝚎𝚊𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝙿𝚎𝚍𝚊𝚐𝚘𝚐𝚒𝚌𝚊𝚕 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 
-- <img src = "https://creazilla-store.fra1.digitaloceanspaces.com/emojis/53059/open-mailbox-with-raised-flag-emoji-clipart-xl.png" height = 30px> 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: `𝟷𝚗𝚒𝚔𝚒𝚝𝚘𝚜.𝚛𝚞𝟸𝟶𝟷𝟾@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖` 𝚘𝚛 `𝚗𝚒𝚔𝚒𝚝𝚊𝚛𝚞𝚍𝚎𝚗𝚔𝚘𝟸𝟶𝟷𝟾@𝚢𝚊𝚗𝚍𝚎𝚡.𝚛𝚞`
-
+- <img src = "https://creazilla-store.fra1.digitaloceanspaces.com/emojis/53059/open-mailbox-with-raised-flag-emoji-clipart-xl.png" height = 30px> 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: `𝟷𝚗𝚒𝚔𝚒𝚝𝚘𝚜.𝚛𝚞𝟸𝟶𝟷𝟾@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖` 𝚘𝚛 `𝚗𝚒𝚔𝚒𝚝𝚊𝚛𝚞𝚍𝚎𝚗𝚔𝚘𝟸𝟶𝟷𝟾@𝚢𝚊𝚗𝚍𝚎𝚡.𝚛𝚞`<br />
+ ![](https://komarev.com/ghpvc/?username=nickruden)
 <hr />
 
 <div align=center>
