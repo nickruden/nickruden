@@ -1,7 +1,7 @@
 <div align=center>
  <img src="https://99px.ru/sstorage/86/2015/12/image_86271215043043632690.gif" height=300px width=600px />
 </div>
-<h1 align="center">𝐇𝐢, 𝐈'𝐦 𝐍𝐢𝐤𝐢𝐭𝐚 &#128522<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">𝐇𝐢, 𝐈'𝐦 𝐍𝐢𝐤𝐢𝐭𝐚 &#128522</h1>
 
 <br />
 <br />
