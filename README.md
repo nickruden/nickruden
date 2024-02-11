@@ -24,7 +24,16 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1900&color=007FFF&background=FF000000&center=true&vCenter=true&width=275&height=32&lines=%F0%9D%90%8B%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%AE%F0%9D%90%9A%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%AC+%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D+%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%AC" alt="Typing SVG" /></a>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1000&pause=2000&color=007FFF&background=FF000000&center=true&vCenter=true&width=50&height=32&lines=----" alt="Typing SVG" /></a>
 </div>
-<p align=center><img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><p>
+<p align=center>
+ <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+ <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+ <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+ <img height=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+ <img height=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+ <img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+ <img height=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
+<p>
 <p align=center><img src = "https://img.shields.io/badge/Windows-2E8B57?style=for-the-badge&logo=windows&logoColor=white"/> <img src = "https://img.shields.io/badge/VS%20Code-4169E1.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> </p>
 
 <hr />
