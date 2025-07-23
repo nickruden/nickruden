@@ -15,7 +15,7 @@
 
 - <img src = "https://cdn-0.emojis.wiki/emoji-pics/google/man-technologist-google.png" height = 30px> 𝙸 𝚊𝚖 𝚊 𝚋𝚎𝚐𝚒𝚗𝚗𝚎𝚛 `𝚠𝚎𝚋-𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛`
 - :zap: Work as a `freelancer`
-- <img src = "https://creazilla-store.fra1.digitaloceanspaces.com/emojis/53059/open-mailbox-with-raised-flag-emoji-clipart-xl.png" height = 30px> 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: `𝟷𝚗𝚒𝚔𝚒𝚝𝚘𝚜.𝚛𝚞𝟸𝟶𝟷𝟾@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖` 𝚘𝚛 `𝚗𝚒𝚔𝚒𝚝𝚊𝚛𝚞𝚍𝚎𝚗𝚔𝚘𝟸𝟶𝟷𝟾@𝚢𝚊𝚗𝚍𝚎𝚡.𝚛𝚞`
+- <img src = "https://creazilla-store.fra1.digitaloceanspaces.com/emojis/53059/open-mailbox-with-raised-flag-emoji-clipart-xl.png" height = 30px> 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: `𝟷𝚗𝚒𝚔𝚒𝚝𝚘𝚜.𝚛𝚞𝟸𝟶𝟷𝟾@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖` 𝚘𝚛 `𝚗𝚒𝚔𝚒𝚝𝚊𝚛𝚞𝚍𝚎𝚗𝚔𝚘𝟸𝟶𝟷𝟾@𝚢𝚊𝚗𝚍𝚎𝚡.𝚛𝚞` or `https://t.me/nikck2202`
 
 <hr />
 
